@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Catalogue Movie Ui Ux</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hendriyawan</string>
+    <string name="nav_header_subtitle">https://github.com/Hendriyawan</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!--for locallization-->
+    <string name="tab_nowplaying">NOW PLAYING</string>
+    <string name="tab_upcoming">UP COMING</string>
+    <string name="tab_favorite">FAVORITE</string>
+    <string name="search_view_hint">Input Movie Name</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="date_of_release">Date Of Release</string>
+    <string name="rating">Rating</string>
+    <string name="vote">Total Vote</string>
+    <string name="set_language">Set Language</string>
+    <string name="movie_added_to_favorite">%s was successfully added to the list of favorites</string>
+    <string name="movie_removed_from_favorite">%s was successfully removed from the list of favorites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

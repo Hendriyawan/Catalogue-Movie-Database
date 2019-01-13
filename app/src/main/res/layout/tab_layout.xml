@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.TabLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:scrollbars="horizontal"
+    app:tabGravity="fill"
+    app:tabSelectedTextColor="@android:color/white"
+    app:tabTextColor="@android:color/white"
+    app:tabIndicatorHeight="3dp"
+    app:tabTextAppearance="@style/TabLayoutAppearance"
+    app:tabMode="fixed"/>

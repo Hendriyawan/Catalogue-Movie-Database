@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Catalogue Movie Content Provider</string>
+    <string name="navigation_drawer_open">Buka drawer</string>
+    <string name="navigation_drawer_close">Tutup drawer navigai</string>
+    <string name="nav_header_title">Hendriyawwan</string>
+    <string name="nav_header_subtitle">https://github.com/Hendriyawan</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!--for locallization-->
+    <string name="tab_nowplaying">SAAT INI</string>
+    <string name="tab_upcoming">MENDATANG</string>
+    <string name="tab_favorite">FAVORIT</string>
+    <string name="search_view_hint">Masukan nama film</string>
+    <string name="search_movie">Pencarian Film</string>
+    <string name="date_of_release">Tanggal Rilis</string>
+    <string name="rating">Penilaian</string>
+    <string name="vote">Total Suara</string>
+    <string name="set_language">Atur Bahasa</string>
+    <string name="movie_added_to_favorite">%s berhasil ditambahkan kedaftar favorite !</string>
+    <string name="movie_removed_from_favorite">%s berhasil dihapus dari daftar favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
